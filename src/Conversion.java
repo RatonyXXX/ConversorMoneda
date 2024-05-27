@@ -15,5 +15,4 @@ public record Conversion(String monedaOrigen, String monedaDestino, double tipoC
         }
         */
     }
-
 }

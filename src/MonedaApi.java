@@ -22,6 +22,5 @@ public class MonedaApi {
         } catch (Exception e) {
             throw new RuntimeException("No se encontro informacion");
         }
-
     }
 }
